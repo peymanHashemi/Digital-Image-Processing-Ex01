@@ -49,4 +49,5 @@ which, in spite of being non-playable, follows the rules of the game.
 You are given an image of the maze at its initial point as well as different elements of the game in various states.
  
 Result :
+
 <img src="https://user-images.githubusercontent.com/62074677/214148368-eda6bb30-5b56-4d35-be76-4f21acd98f8c.gif">
