@@ -9,9 +9,9 @@ In this exercise we have some pictures of famouse soccer players (Dataset1). We 
 At first we create a mirror of every image and we split original and mirrored image and we combine them in ‘L ⅃’, ‘Я R’, and ‘Я ⅃’ order.
 At last compute PSNR and SSIM metrics for every combined picture.
 
-Result :
+Result : 
 
-![harry_kane](https://user-images.githubusercontent.com/62074677/214143563-73d5f1ea-a9fa-4e75-b667-3fe51e52421b.png)    ![image](https://user-images.githubusercontent.com/62074677/214143265-b3a99280-f193-4837-bd31-eb09194305b0.png)   ![image](https://user-images.githubusercontent.com/62074677/214143330-0ed1f746-0e00-4cd1-8b41-6b59d0da8b09.png)   ![image](https://user-images.githubusercontent.com/62074677/214143371-ba2f6f5d-5bcb-4d00-943c-8f6446380400.png)
+![harry_kane](https://user-images.githubusercontent.com/62074677/214143563-73d5f1ea-a9fa-4e75-b667-3fe51e52421b.png) ![image](https://user-images.githubusercontent.com/62074677/214143265-b3a99280-f193-4837-bd31-eb09194305b0.png)   ![image](https://user-images.githubusercontent.com/62074677/214143330-0ed1f746-0e00-4cd1-8b41-6b59d0da8b09.png)   ![image](https://user-images.githubusercontent.com/62074677/214143371-ba2f6f5d-5bcb-4d00-943c-8f6446380400.png)
 
 # Question 2
 The Art of Hiding Messages in Pixels
@@ -19,7 +19,7 @@ We are given two seemingly random grayscale images which contain a secret messag
 The idea is to move one image on another and find the hidden message using basic image operations.
 
 Result :
-![image](https://user-images.githubusercontent.com/62074677/214144155-cb10d759-36dd-44f3-a278-cff062cbab66.png)
+<img src="https://user-images.githubusercontent.com/62074677/214144155-cb10d759-36dd-44f3-a278-cff062cbab66.png" width=30% height=30%>
 
 # Question 3
 Analyzing Some Global Warming Impacts
